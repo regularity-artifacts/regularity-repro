@@ -116,14 +116,6 @@ To remove generated outputs and build products:
 bash scripts/clean_outputs.sh
 ```
 
-## Notes on anonymity
-
-This repository is prepared for anonymous review. It should not contain author names, affiliations, personal paths, or personal Git history. If cloning or modifying locally before upload, please check:
-
-```bash
-grep -RniE "author|name|affiliation|/Users|spritam|Siddharth|Pritam|CMI|Chennai|iitkgp" .
-```
-
 ## License
 
 This artifact is provided for anonymous review and reproducibility. A permanent license may be added in the non-anonymous archival version.
